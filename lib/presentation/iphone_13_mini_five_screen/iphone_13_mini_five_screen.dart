@@ -302,7 +302,7 @@ class Iphone13MiniFiveScreen extends StatelessWidget {
                     width: 10.h,
                   );
                 },
-                itemCount: 2,
+                itemCount: 5,
                 itemBuilder: (context, index) {
                   return UserprofileItemWidget();
                 },
