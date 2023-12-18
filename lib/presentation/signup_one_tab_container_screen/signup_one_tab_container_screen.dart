@@ -71,7 +71,7 @@ class SignupOneTabContainerScreenState
         child: TabBar(
             controller: tabviewController,
             labelPadding: EdgeInsets.zero,
-            labelColor: appTheme.whiteA700,
+            labelColor: appTheme.indigo600,
             unselectedLabelColor: theme.colorScheme.primary.withOpacity(1),
             tabs: [
               Tab(child: Text("Customer")),
